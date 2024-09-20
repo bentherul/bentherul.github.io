@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bentherul.github.io/sitemap.html.gz
+Sitemap: https://bentherul.github.io/app/sitemap.html.gz
+Sitemap: https://bentherul.github.io/assets/sitemap.html.gz
+Sitemap: https://bentherul.github.io/css/sitemap.html.gz
+Sitemap: https://bentherul.github.io/data/sitemap.html.gz
+Sitemap: https://bentherul.github.io/includes/sitemap.html.gz
+Sitemap: https://bentherul.github.io/item/sitemap.html.gz
+Sitemap: https://bentherul.github.io/src/sitemap.html.gz
